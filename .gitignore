@@ -1,0 +1,13 @@
+# Private credentials
+.env
+
+# Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Python working files
+.pkl
+
+# OS files
+.DS_Store
+Thumbs.db

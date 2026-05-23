@@ -1,0 +1,101 @@
+,vendor_id,vendor_name,vendor_type,payment_terms,active_flag
+0,V0001,1220 Exhibits Inc,Vendor,Net 30,1
+1,V0002,192 Branch Interior Services Inc,Vendor,Net 45,1
+2,V0003,514 Potter Ave Corp,Vendor,Net 60,1
+3,V0004,A A D Construction Corp,Vendor,Net 30,1
+4,V0005,A Colarusso & Son Inc,Vendor,Net 45,1
+5,V0006,A Peter Luger Construction Inc,Vendor,Net 60,1
+6,V0007,AAA Windows And Doors Corp,Vendor,Net 30,1
+7,V0008,Abscope Environmental Inc,Subconsultant,Net 45,1
+8,V0009,Adirondack Mechanical Services LLC,Vendor,Net 60,1
+9,V0010,Aecom Technical Services Northeast Inc,Subconsultant,Net 30,1
+10,V0011,Aecom USA Inc,Vendor,Net 45,1
+11,V0012,Aero Plumbing & Heating Co Inc,Vendor,Net 60,0
+12,V0013,Ajay Glass & Mirror Co Inc,Vendor,Net 30,1
+13,V0014,Aktor Corporation,Vendor,Net 45,1
+14,V0015,All Around Storage LLC,Vendor,Net 60,1
+15,V0016,Alliance Tri-State Construction Inc,Vendor,Net 30,1
+16,V0017,Allstate Enterprises Inc,Vendor,Net 45,1
+17,V0018,American Glass Company Of Albany Inc,Vendor,Net 60,1
+18,V0019,American Jail Products LLC,Vendor,Net 30,1
+19,V0020,American Paving & Excavating Inc,Vendor,Net 45,1
+20,V0021,American Pump & Tank Installation Co Inc,Vendor,Net 60,1
+21,V0022,Amh Mechanical Contracting Incorporated,Vendor,Net 30,1
+22,V0023,Amz Construction Services Inc,Vendor,Net 45,1
+23,V0024,Andron Construction Corp,Vendor,Net 60,0
+24,V0025,Anjac Enterprises Inc,Vendor,Net 30,1
+25,V0026,B-S Industrial Contractors Inc,Vendor,Net 45,1
+26,V0027,Bagnall Electric Inc,Vendor,Net 60,1
+27,V0028,Bayside Refrigeration Inc,Vendor,Net 30,1
+28,V0029,BBL Construction Services LLC,Vendor,Net 45,1
+29,V0030,Bell & Spina Architects - Planners PC,Subconsultant,Net 60,1
+30,V0031,Biltwel General Contractor Corp,Vendor,Net 30,1
+31,V0032,Bison Elevator Service Inc,Vendor,Net 45,1
+32,V0033,Black Horse Group LLC,Vendor,Net 60,1
+33,V0034,Blackmon Farrell Electric Inc,Vendor,Net 30,1
+34,V0035,Brockway Mechanical Systems Inc,Vendor,Net 45,1
+35,V0036,Building Controls & Services Inc,Vendor,Net 60,0
+36,V0037,Building Innovation Group Inc,Vendor,Net 30,1
+37,V0038,C&S Technical Resources Inc,Subconsultant,Net 45,1
+38,V0039,Callanan Industries Inc,Vendor,Net 60,1
+39,V0040,Cannon Design Architecture And Engineering,Subconsultant,Net 30,1
+40,V0041,Cascade Water Services Inc,Vendor,Net 45,1
+41,V0042,CDE Electric Inc,Vendor,Net 60,1
+42,V0043,Champion Construction & Demolition Inc,Vendor,Net 30,1
+43,V0044,Concord Electric Corporation,Vendor,Net 45,1
+44,V0045,Concrete Applied Technologies Corp,Vendor,Net 60,1
+45,V0046,Core Climate Systems LLC,Vendor,Net 30,1
+46,V0047,Creighton Manning Engineering LLP,Subconsultant,Net 45,1
+47,V0048,Crisafulli Brothers Plumbing & Heating,Vendor,Net 60,0
+48,V0049,CSA Group NY Architects & Engineers PC,Subconsultant,Net 30,1
+49,V0050,D&M Electrical Contracting Inc,Vendor,Net 45,1
+50,V0051,Dakota Environmental Services LLC,Subconsultant,Net 60,1
+51,V0052,Delta Engineers Architects & Land Surveyors,Subconsultant,Net 30,1
+52,V0053,Dyno Group Inc,Vendor,Net 45,1
+53,V0054,Empire Mechanical Services Inc,Vendor,Net 60,1
+54,V0055,Murray Engineering,Subconsultant,Net 30,1
+55,V0056,Nagan Construction Inc,Vendor,Net 45,1
+56,V0057,Nairy Mechanical LLC,Vendor,Net 60,1
+57,V0058,Napp Electric Contractor Co Inc,Vendor,Net 30,1
+58,V0059,National Building & Restoration Corporation,Vendor,Net 45,1
+59,V0060,Navalis Company Inc,Vendor,Net 60,0
+60,V0061,Naveed F Gondal,Vendor,Net 30,1
+61,V0062,NAB Construction Inc,Vendor,Net 45,1
+62,V0063,Nelcorp Electrical Contracting Corp,Vendor,Net 60,1
+63,V0064,Nelligan White Architects PLLC,Subconsultant,Net 30,1
+64,V0065,New Britain Roofing Co Inc,Vendor,Net 45,1
+65,V0066,New Century Electric Inc,Vendor,Net 60,1
+66,V0067,OBrien & Gere Engineers Inc,Subconsultant,Net 30,1
+67,V0068,OConnell Electric Company Inc,Vendor,Net 45,1
+68,V0069,OCS Industries,Vendor,Net 60,1
+69,V0070,Ohio Casualty Insurance Company,Subconsultant,Net 30,1
+70,V0071,Olympic Electric Of The Hudson Valley LLC,Vendor,Net 45,1
+71,V0072,OP-Tech Environmental Services Inc,Subconsultant,Net 60,0
+72,V0073,Orchard Earth & Pipe Corp,Vendor,Net 30,1
+73,V0074,Otis Elevator Company,Vendor,Net 45,1
+74,V0075,Outer County Construction Corp,Vendor,Net 60,1
+75,V0076,PAL Environmental Services,Subconsultant,Net 30,1
+76,V0077,Palace Electrical Contractors Inc,Vendor,Net 45,1
+77,V0078,Polaris Electrical Construction Inc,Vendor,Net 60,1
+78,V0079,Popli Architecture & Engineering & LSDPC,Subconsultant,Net 30,1
+79,V0080,Postler & Jaeckle Corp,Vendor,Net 45,1
+80,V0081,Posylio GC Corp,Vendor,Net 60,1
+81,V0082,Premier Mechanical Services Incorporated,Vendor,Net 30,1
+82,V0083,Prestige Electric LLC,Vendor,Net 45,1
+83,V0084,Prince Contracting & Development Inc,Vendor,Net 60,0
+84,V0085,Ran Fire Protection Engineering PC,Subconsultant,Net 30,1
+85,V0086,Raw Power Electric Corp,Vendor,Net 45,1
+86,V0087,Ray S Pantel Inc,Vendor,Net 60,1
+87,V0088,Razak Associates Architecture Engineering,Subconsultant,Net 30,1
+88,V0089,RB Mac Construction Co Inc,Vendor,Net 45,1
+89,V0090,RB Robinson Contracting Inc,Vendor,Net 60,1
+90,V0091,RBSD STV JV,Vendor,Net 30,1
+91,V0092,Reale Construction Co Inc,Vendor,Net 45,1
+92,V0093,Red Cedar Landscapers Inc,Vendor,Net 60,1
+93,V0094,Reliance Fence Company Inc,Vendor,Net 30,1
+94,V0095,Reliant Electrical Contracting Inc,Vendor,Net 45,1
+95,V0096,Restartits Construction Corporation,Vendor,Net 60,0
+96,V0097,RSI Roofing Inc,Vendor,Net 30,1
+97,V0098,Russell P Lefrois Builder Inc,Vendor,Net 45,1
+98,V0099,S & L Plumbing & Heating Corp,Vendor,Net 60,1
+99,V0100,S & L Roofing & Sheetmetal Inc,Vendor,Net 30,1

@@ -1,0 +1,51 @@
+,project_id,project_name,client_name,project_type,project_status,project_manager,budget_amount,start_date,end_date
+0,OH-0001,Corporate Overhead - General Administration,Internal,overhead,Active,Finance Department,1200000.0,2024-01-01,
+1,OH-0002,Corporate IT Systems And Infrastructure,Internal,overhead,Active,IT Department,950000.0,2024-01-01,
+2,OH-0003,Human Resources And Recruiting,Internal,overhead,Active,HR Department,420000.0,2024-01-01,
+3,OH-0004,Marketing And Business Development,Internal,overhead,Active,Marketing Department,650000.0,2024-01-01,
+4,OH-0005,Office Operations And Facilities,Internal,overhead,Active,Operations Department,580000.0,2024-01-01,
+5,OH-0006,Corporate Training And Professional Development,Internal,overhead,Active,HR Department,210000.0,2024-01-01,
+6,OH-0007,Corporate Accounting And Finance,Internal,overhead,Active,Finance Department,430000.0,2024-01-01,
+7,OH-0008,Legal And Compliance Activities,Internal,overhead,Active,Legal Department,275000.0,2024-01-01,
+8,OH-0009,Corporate Software Subscriptions And Licensing,Internal,overhead,Active,IT Department,340000.0,2024-01-01,
+9,OH-0010,Company Events And Employee Engagement,Internal,overhead,Active,HR Department,150000.0,2024-01-01,
+10,PRJ-0001,Hudson River Office Renovation,Hudson River Holdings,project,Active,Robert Alvarez,1850000.0,2024-02-12,2025-03-30
+11,PRJ-0002,Albany Medical Center Expansion,Albany Medical Center,project,Active,Daniel Kim,9200000.0,2023-11-01,2026-05-15
+12,PRJ-0003,Capital Region Bridge Rehabilitation,NY State DOT,project,Active,Michelle Grant,12500000.0,2024-04-10,2026-09-01
+13,PRJ-0004,Riverfront Apartment Complex,Riverfront Development LLC,project,Active,Laura Simmons,6700000.0,2024-06-05,2025-12-20
+14,PRJ-0005,Saratoga Retail Plaza,Saratoga Retail Group,project,Planning,James Patel,4200000.0,2025-01-15,2026-03-30
+15,PRJ-0006,Tech Valley Data Center,Tech Valley Hosting,project,Active,Robert Alvarez,8300000.0,2024-08-01,2025-11-15
+16,PRJ-0007,Green Energy Solar Facility,Empire Renewable Energy,project,Active,Daniel Kim,5100000.0,2024-03-20,2025-07-30
+17,PRJ-0008,Downtown Parking Garage,City of Albany,project,Active,David Romero,3800000.0,2024-01-10,2025-05-10
+18,PRJ-0009,State University Lab Renovation,SUNY Research Foundation,project,Active,Kevin Tran,2950000.0,2024-05-01,2025-02-28
+19,PRJ-0010,Regional Water Treatment Upgrade,Capital Water Authority,project,Active,Jessica Turner,7400000.0,2023-09-01,2025-10-15
+20,PRJ-0011,Northside Elementary School,Albany School District,project,Planning,Amanda Price,6100000.0,2025-04-01,2026-08-15
+21,PRJ-0012,Interstate 87 Safety Improvements,NY State DOT,project,Active,Mark Feldman,9800000.0,2024-07-01,2026-01-10
+22,PRJ-0013,Riverwalk Mixed Use Development,Riverwalk Partners,project,Active,Angela Morris,11200000.0,2024-02-01,2026-04-20
+23,PRJ-0014,Empire State Office Fit-Out,Empire State Properties,project,Completed,Lisa Grant,1500000.0,2023-03-15,2024-01-30
+24,PRJ-0015,Logistics Warehouse Expansion,NorthEast Logistics,project,Active,Peter Sullivan,5400000.0,2024-05-20,2025-09-15
+25,PRJ-0016,City Hall Structural Repairs,City of Troy,project,Active,Thomas Reed,2100000.0,2024-01-05,2024-12-15
+26,PRJ-0017,Community Recreation Center,Town of Colonie,project,Planning,Andrew Foster,3200000.0,2025-06-01,2026-11-01
+27,PRJ-0018,Airport Terminal Improvements,Albany International Airport,project,Active,Matthew Kim,8600000.0,2024-09-01,2026-02-20
+28,PRJ-0019,Hospital Emergency Wing,St. Mary's Hospital,project,Active,Michelle Grant,7300000.0,2024-03-15,2025-10-01
+29,PRJ-0020,Corporate Headquarters Renovation,Vector Financial,project,Active,Brian Donovan,2650000.0,2024-04-01,2025-01-15
+30,PRJ-0021,Regional Distribution Center,Northeast Supply Co,project,Active,Jason Bennett,6900000.0,2024-06-10,2025-12-05
+31,PRJ-0022,Urban Streetscape Improvement,City of Schenectady,project,Active,Kevin Tran,1800000.0,2024-07-01,2025-03-01
+32,PRJ-0023,High School Stadium Upgrade,Albany School District,project,Completed,Gregory Hayes,2400000.0,2023-02-10,2024-01-01
+33,PRJ-0024,Office Tower HVAC Upgrade,Capital Tower Holdings,project,Active,Olivia Carter,1350000.0,2024-10-01,2025-06-01
+34,PRJ-0025,Manufacturing Plant Expansion,Adirondack Manufacturing,project,Active,Eric Martinez,7200000.0,2024-03-01,2025-08-20
+35,PRJ-0026,Regional Library Construction,Capital Library Network,project,Planning,Michelle Grant,3900000.0,2025-02-01,2026-07-15
+36,PRJ-0027,Waterfront Park Development,City of Albany,project,Active,Thomas Reed,2100000.0,2024-05-15,2025-05-15
+37,PRJ-0028,Technology Campus Building A,Tech Valley Research,project,Active,Samuel Price,9600000.0,2024-01-20,2026-06-10
+38,PRJ-0029,Senior Living Facility,Golden Years Communities,project,Active,Angela Morris,5800000.0,2024-08-15,2026-01-30
+39,PRJ-0030,Intermodal Rail Facility,Empire Rail Authority,project,Active,Laura Nguyen,8800000.0,2024-02-01,2025-12-10
+40,PRJ-0031,University Dormitory Renovation,SUNY Housing Services,project,Active,Jessica Turner,1750000.0,2024-06-01,2025-02-15
+41,PRJ-0032,Stormwater Drainage Improvements,Capital Region Utilities,project,Active,Patrick O'Neill,2950000.0,2024-04-01,2025-09-01
+42,PRJ-0033,Suburban Office Park Development,Northfield Commercial,project,Planning,Daniel Kim,7400000.0,2025-05-01,2027-01-01
+43,PRJ-0034,Medical Office Building,Capital Health Partners,project,Active,Emily Sanders,4600000.0,2024-07-10,2025-11-25
+44,PRJ-0035,Regional Police Headquarters,City of Albany,project,Active,Angela Morris,5200000.0,2024-09-01,2026-02-01
+45,PRJ-0036,Highway Bridge Replacement,NY State DOT,project,Active,Kevin Tran,10400000.0,2024-03-01,2026-07-20
+46,PRJ-0037,Water Pump Station Upgrade,Capital Water Authority,project,Active,Jason Bennett,3100000.0,2024-05-01,2025-12-15
+47,PRJ-0038,Corporate Training Center,Vector Financial,project,Planning,Andrew Foster,2500000.0,2025-01-10,2026-04-01
+48,PRJ-0039,Warehouse Automation Retrofit,Northeast Logistics,project,Active,Robert Alvarez,1750000.0,2024-11-01,2025-07-01
+49,PRJ-0040,City Transit Maintenance Facility,Capital Transit Authority,project,Active,Laura Nguyen,6400000.0,2024-06-15,2026-03-15
