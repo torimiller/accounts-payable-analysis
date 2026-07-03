@@ -3,10 +3,10 @@
 
 # Jupyter temporary files
 __pycache__/
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # Python working files
-.pkl
+*.pkl
 
 # OS files
 .DS_Store
