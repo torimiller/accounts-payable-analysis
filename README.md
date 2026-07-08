@@ -133,13 +133,15 @@ Tracks monthly AP cash outflows to identify seasonal patterns, peak payment mont
 
 ## Dashboard
 
-Built in Power BI, connected directly to the MySQL database created during EDA. Planned visuals include:
+Built in Power BI, connected directly to MySQL tables (dim_vendors, dim_projects, fact_invoices, fact_invoice_charges, dim_date). Metrics are calculated using DAX measures in a dedicated `_Measures` table, including:
 
-- Top 10 vendors by spend, invoice count, and payment frequency
-- Payment terms compliance — flagging mismatches between invoice due dates and vendor contract terms
-- Late payment analysis by vendor and vendor type
-- Monthly cash outflow trends
-- Project cost concentration
+- **Invoice Count** — total number of invoices
+- **Payment Status** — categorization of invoices by paid, partially paid, or unpaid
+- **Percent Paid** — share of total invoice spend that has been paid
+- **Total AP Spend** — sum of all invoice amounts
+- **Total Outstanding** — remaining unpaid balance across all invoices
+- **Total Paid** — total amount paid to date
+- **Vendors Involved** — count of distinct vendors with AP activity
 
 ##  How to Run This Project
 
