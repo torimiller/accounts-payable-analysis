@@ -27,15 +27,16 @@ This project analyzes accounts payable data to uncover spending patterns, vendor
 
 ## Business Problem
 
-Accounts payable teams often lack visibility into their own data — which vendors are driving the most spend, whether invoices are being paid on time, and how cash is flowing across projects. This project addresses those gaps by consolidating invoice, payment, vendor, and project data into a structured analytical framework.
+Accounts payable teams often lack visibility into their own data, such as which vendors are driving the most spend, whether invoices are being paid on time, and how cash is flowing across projects. This project addresses those gaps by consolidating invoice, payment, vendor, and project data into a structured analytical framework.
 
 ## Key Features
 
 - End-to-end data cleaning and type standardization across five related datasets
-- SQL-based analysis with reusable views built for Power BI connectivity
+- SQL-based analysis of a relational AP dataset, using joins, CTEs, and aggregations against a local MySQL database
 - Six analytical focus areas: AP spend overview, vendor spend, project costs, invoice charge breakdown, payment performance, and cash flow trends
 - Outlier detection using the IQR method to flag high-spend vendors
 - Visualizations built in Matplotlib for exploratory analysis
+- Interactive Power BI dashboard with DAX measures
 
 ## Dataset
 
@@ -54,7 +55,7 @@ The project uses five CSV files representing a relational AP dataset:
 - **Python** — pandas, NumPy, Matplotlib
 - **SQL** — MySQL via SQLAlchemy and PyMySQL
 - **Jupyter Notebooks** — data cleaning and EDA
-- **Power BI** — interactive dashboard (connected to MySQL database)
+- **Power BI** — interactive dashboard (built from the cleaned CSV files)
 - **dotenv** — environment variable management for database credentials
 
 ## Project Structure
@@ -133,7 +134,7 @@ Tracks monthly AP cash outflows to identify seasonal patterns, peak payment mont
 
 ## Dashboard
 
-Built in Power BI, connected directly to MySQL tables (dim_vendors, dim_projects, fact_invoices, fact_invoice_charges, dim_date). Metrics are calculated using DAX measures in a dedicated `_Measures` table, including:
+Built in Power BI from the cleaned CSV files in `Data/Cleaned/`. Metrics are calculated using DAX measures in a dedicated `_Measures` table, including:
 
 - **Invoice Count** — total number of invoices
 - **Payment Status** — categorization of invoices by paid, partially paid, or unpaid
@@ -142,6 +143,8 @@ Built in Power BI, connected directly to MySQL tables (dim_vendors, dim_projects
 - **Total Outstanding** — remaining unpaid balance across all invoices
 - **Total Paid** — total amount paid to date
 - **Vendors Involved** — count of distinct vendors with AP activity
+
+[Add live dashboard link here]
 
 ##  How to Run This Project
 
